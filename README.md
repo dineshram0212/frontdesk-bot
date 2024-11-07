@@ -17,10 +17,10 @@ This project implements an AI-driven arm control system with face recognition ca
    cd ai-arm-control-face-recognition
 Install dependencies:
 
-bash
-Copy code
+```bash
 pip install -r requirements.txt
+```
 Set up known faces:
 
-Place images of known faces in the known_faces directory. These will be used for face recognition.
+New faces will be registered to the known_faces directory. These will be used for face recognition.
 Run the code in a Jupyter Notebook or Jupyter Lab environment.
